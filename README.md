@@ -5,8 +5,10 @@ It can also be used on tablets or other devices, and you can configure the make.
 # Installation Requirements
 
 
-| Operating system | Required Dependencies                                  |
-|----------------|--------------------------------------------------------|
-| Linux          | `gcc`, `ffmpeg`, `mesautils`, `x-wayland` or `xorg`    |
-| Windows        | "dkm "vcrum2022" , "opengl es" "vulkan"
-| MacOS          | "Bin-utils" "ffmpeg "mesautils"
+
+
+| Operating System | Required Dependencies                                      |
+|------------------|------------------------------------------------------------|
+| Linux            | `gcc`, `ffmpeg`, `mesautils`, `x-wayland` or `xorg`        |
+| Windows          | `dkm`, `vcrum2022`, `OpenGL ES`, `Vulkan`                  |
+| MacOS            | `bin-utils`, `ffmpeg`, `mesautils`                         |
