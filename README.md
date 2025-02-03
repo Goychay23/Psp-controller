@@ -14,19 +14,14 @@ Linux
 git clone https://github.com/Goychay23/Psp-controller
 cd Psp-controller
 make
-
-
-
 ./configure
 make build linux
 ./build -es -xorg
 ```
 if you are using wayland
 ```
-./build -es -wayland or -xwayland
+./build -es -wayland -xwayland
 ```
-
-
 Windows
 
 
